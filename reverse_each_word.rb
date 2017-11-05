@@ -5,7 +5,6 @@ def reverse_each_word(string)
     variable.reverse!
     arr.push(variable)
   end
-  return arr    
+  return arr
 end
 
-reverse_each_word("Hello world!")
