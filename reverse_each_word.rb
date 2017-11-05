@@ -6,3 +6,5 @@ def reverse_each_word(string)
   end
   return  newstr
 end
+
+reverse_each_word("Hello world!")
